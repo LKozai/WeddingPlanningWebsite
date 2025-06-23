@@ -17,6 +17,7 @@ This project is a multi-page wedding planning website built using fundamental Ja
 
 ## Project Structure
 
+```
 Wedding Planning Website
 ├── css
 │   ├── about.css
@@ -50,6 +51,7 @@ Wedding Planning Website
 │   ├── testimonials.html
 │   └── index.html
 └── README.md
+```
 
 ## How to Use
 1. Clone or download the repository.
