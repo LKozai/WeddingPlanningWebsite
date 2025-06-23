@@ -19,39 +19,37 @@ This project is a multi-page wedding planning website built using fundamental Ja
 
 Wedding Planning Website
 ├── css
-│ ├── about.css
-│ ├── contact.css
-│ ├── pricing.css
-│ ├── reservation.css
-│ ├── styles.css
-│ ├── template.css
-│ └── testimonials.css
+│   ├── about.css
+│   ├── contact.css
+│   ├── pricing.css
+│   ├── reservation.css
+│   ├── styles.css
+│   ├── template.css
+│   └── testimonials.css
 ├── images
-│ ├── about
-│ ├── pricing
-│ ├── testimonials
-│ ├── background-flowers.jpg
-│ ├── contact.png
-│ ├── phone.jpg
-│ ├── service1.jpg
-│ ├── service2.jpg
-│ ├── service3.jpg
-│ └── wedding_logo.png
+│   ├── about
+│   ├── pricing
+│   ├── testimonials
+│   ├── background-flowers.jpg
+│   ├── contact.png
+│   ├── phone.jpg
+│   ├── service1.jpg
+│   ├── service2.jpg
+│   ├── service3.jpg
+│   └── wedding_logo.png
 ├── js
-│ ├── redirect.js
-│ ├── reservation.js
-│ └── testmonials.js
+│   ├── redirect.js
+│   ├── reservation.js
+│   └── testmonials.js
 ├── webpages
-│ ├── about.html
-│ ├── contact.html
-│ ├── pricing.html
-│ ├── reservation.html
-│ ├── reserve.html
-│ ├── testimonials.html
-│ └── index.html
-├── README.md
-├── package-lock.json (if applicable)
-└── package.json (if applicable)
+│   ├── about.html
+│   ├── contact.html
+│   ├── pricing.html
+│   ├── reservation.html
+│   ├── reserve.html
+│   ├── testimonials.html
+│   └── index.html
+└── README.md
 
 ## How to Use
 1. Clone or download the repository.
