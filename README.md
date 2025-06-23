@@ -55,7 +55,7 @@ Wedding Planning Website
 
 ## How to Use
 1. Clone or download the repository.
-2. Open `index.html` in your web browser to start navigating the site.
+2. Open **index.html** in your web browser to start navigating the site.
 3. Use the navigation bar to explore different sections including pricing, testimonials, consultation booking, contact, and about pages.
 4. Fill out the consultation reservation form with valid details to submit a request.
 5. View testimonials by clicking on the images in the Testimonials page.
